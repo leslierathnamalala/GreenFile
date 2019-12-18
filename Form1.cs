@@ -15,7 +15,10 @@ namespace GreenFileDownloader
 {
     public partial class Form1 : Form
     {
-        
+        /// <summary>
+        /// GreenFile Downloader V1.0
+        /// Downloads only when url typed
+        /// </summary>
 
         public Form1()
         {
