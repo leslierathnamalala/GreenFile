@@ -1,0 +1,10 @@
+C:\Users\Leslie Rathnamalala\source\repos\GreenFileDownloader\bin\Debug\GreenFileDownloader.exe.config
+C:\Users\Leslie Rathnamalala\source\repos\GreenFileDownloader\bin\Debug\GreenFileDownloader.exe
+C:\Users\Leslie Rathnamalala\source\repos\GreenFileDownloader\bin\Debug\GreenFileDownloader.pdb
+C:\Users\Leslie Rathnamalala\source\repos\GreenFileDownloader\obj\Debug\GreenFileDownloader.csprojAssemblyReference.cache
+C:\Users\Leslie Rathnamalala\source\repos\GreenFileDownloader\obj\Debug\GreenFileDownloader.Properties.Resources.resources
+C:\Users\Leslie Rathnamalala\source\repos\GreenFileDownloader\obj\Debug\GreenFileDownloader.csproj.GenerateResource.cache
+C:\Users\Leslie Rathnamalala\source\repos\GreenFileDownloader\obj\Debug\GreenFileDownloader.csproj.CoreCompileInputs.cache
+C:\Users\Leslie Rathnamalala\source\repos\GreenFileDownloader\obj\Debug\GreenFileDownloader.exe
+C:\Users\Leslie Rathnamalala\source\repos\GreenFileDownloader\obj\Debug\GreenFileDownloader.pdb
+C:\Users\Leslie Rathnamalala\source\repos\GreenFileDownloader\obj\Debug\GreenFileDownloader.Form1.resources
